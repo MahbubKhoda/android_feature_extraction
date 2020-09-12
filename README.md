@@ -1,2 +1,2 @@
-# android_feature_extraction
-Python codes for extracting features from Android apps using Androguard
+# Extracting features from Android apks
+Python codes for extracting features for malware analysis from Android apps using Androguard
